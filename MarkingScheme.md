@@ -30,7 +30,7 @@
      <TD WIDTH=10%> [0.25]
      <TD WIDTH=40%> Non-SUMO relationships
      <TD WIDTH=10%> [0.5]
-<TD> <TD WIDTH=40%> Knowledge graph
+<TR> <TD WIDTH=40%> Knowledge graph
      <TD WIDTH=10%> [0.5]
 </TABLE>
 
