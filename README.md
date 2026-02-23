@@ -40,6 +40,7 @@ displaying ontological knowledge in a knowledge graph.
    - `Man` (for `Carson_Beck`)
      
    All the SUMO subclass hierarchies must end at `Entity`.
+   
    Write out all your Thing-Relationship-Thing tripes in a text file `Football.txt`.
    Render the knowledge in a knowledge graph, and save it in a file `Football.png` (take a
    screenshot).
