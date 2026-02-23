@@ -31,7 +31,8 @@ displaying ontological knowledge in a knowledge graph.
    - `Carson_Beck` played_in `CFPNC_2026`
    - `Carson_Beck` member `Miami_Hurricanes`
    - `Carson_Beck` instance `Man`
-   The SUMO starting point you must use are:
+   - 
+   The SUMO starting points you must use are:
    - `FootballUS` (for `CFPNC_2026`)
    - `SportsTeam` (for `Miami_Hurricanes` and `Indiana_Hoosiers`)
    - `Day` (for `20_January_2026`)
