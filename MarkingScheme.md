@@ -4,7 +4,7 @@
 <TABLE BORDER=0>
 <TR> <TD COLSPAN=2 WIDTH=50%> Student:
      <TD WIDTH=40%> Mark:
-     <TD WIDTH=10%> /4.0
+     <TD WIDTH=10%> 4/4.0
 <TR> <TD COLSPAN=4> &nbsp;
 <TR> <TH ALIGN=LEFT COLSPAN=4> LC in PRP - 1.5
 <TR> <TD WIDTH=40%> Challenge 1 answer
